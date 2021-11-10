@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently working as a Backend Engineer in Tokyo, Japan
+- 🔭 Currently working as a Backend Engineer in London, England
 - 🌱 Also learning Flutter and have previous work experience in iOS App Dev
 - 👯 Looking to collaborate on API or App Dev projects
 
