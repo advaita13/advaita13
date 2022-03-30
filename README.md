@@ -2,7 +2,7 @@
 
 - 🔭 Currently working as a Backend Engineer in London, England
 - 🌱 Also learning Flutter and have previous work experience in iOS App Dev
-- 👯 Looking to collaborate on API or App Dev projects
+- 👯 Looking to collaborate on Backend or Mobile Dev projects
 
 <!--
 **advaita13/advaita13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
